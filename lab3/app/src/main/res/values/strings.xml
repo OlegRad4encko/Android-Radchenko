@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="send_message">Отправить сообщение</string>
+    <string name="input_text">Ввести сообщение</string>
+    <string name="trash">Ваш мусор</string>
+    <string name="send_msg">Отправить сообщение</string>
+    <string name="view_message">Принять сообщение</string>
+</resources>

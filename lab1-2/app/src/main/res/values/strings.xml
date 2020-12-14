@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShowMyBeer</string>
+    <string name="buttonText">Select My Beers</string>
+    <string name="myBeers">Тут будет мое любимое пиво</string>
+    <string-array name="beerColors">
+        <item>Выбрать пиво</item>
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
+</resources>
