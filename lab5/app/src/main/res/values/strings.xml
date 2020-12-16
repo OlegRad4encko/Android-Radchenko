@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="update">Update</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="delete">Delete</string>
+    <string name="add">ADD</string>
+    <string name="read">READ</string>
+    <string name="clear">CLEAR</string>
+    <string name="todo">TODO</string>
+    <string name="order_by">Order By</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="oleg">Oleg</string>
+    <string-array name="entries">
+        <item>Name</item>
+        <item>Surname</item>
+        <item>Email</item>
+    </string-array>
+</resources>
