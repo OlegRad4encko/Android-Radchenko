@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab7</string>
+    <string name="info">Здесь кто-нибудь есть??</string>
+    <string name="exit">Я ухожу</string>
+    <string name="save_data">Сейф</string>
+    <string name="yes">Прикольно? -ДА!</string>
+    <string name="no">Ответ плохого человке</string>
+    <string name="cancel">Дверь закрыта, уходите</string>
+    <string name="saved">Cохранено</string>
+
+
+</resources>
